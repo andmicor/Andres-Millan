@@ -1,4 +1,4 @@
-# Andres-Millan
+# andmicor
 ## Hi there 👋 I'm Andrés Millán, Backend Developer
 
 ### Contact
